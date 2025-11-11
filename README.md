@@ -23,4 +23,4 @@ function soma (a, b){
 }
 ```
 - [X] Criar HTML
-- [] Criar CSS
+- [ ] Criar CSS
