@@ -22,3 +22,5 @@ function soma (a, b){
     return a + b
 }
 ```
+- [X] Criar HTML
+- [] Criar CSS
