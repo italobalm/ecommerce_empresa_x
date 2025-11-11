@@ -14,3 +14,11 @@ _teste_
 2. Java
 
 ![Imagem para teste](img/logo.png)
+
+#### Código teste
+
+```javascript
+function soma (a, b){
+    return a + b
+}
+```
