@@ -12,3 +12,5 @@ _teste_
 
 1. Python
 2. Java
+
+![Imagem para teste](img/logo.png)
